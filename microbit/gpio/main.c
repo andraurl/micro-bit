@@ -1,4 +1,5 @@
 #include <stdint.h>
+#include "uart.h"
 
 #define GPIO ((NRF_GPIO_REGS*)0x50000000)
 
